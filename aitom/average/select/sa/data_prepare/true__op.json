@@ -1,0 +1,20 @@
+{
+
+    "program": "python ../../../scripts/data_prepare/true.py",
+
+    "map bak": "../density-maps/generate_density_maps/out/2J00-2J01.mrc",
+    "maps file": "../density-maps/generate_density_maps/generate_density_maps__out.pickle",
+    "pid": "2J00-2J01",
+    "intensity_positive": false,
+
+    "optics": "optics__op.json",
+
+    "rotate_angle": [0,0,0],
+    "translation": [0,0,0],
+
+    "image_num": 100,
+
+    "images_out": "true__out__images.pickle"
+
+}
+
