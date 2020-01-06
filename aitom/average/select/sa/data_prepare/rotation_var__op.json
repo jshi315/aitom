@@ -1,0 +1,14 @@
+{
+    "program": "python ../../../scripts/data_prepare/rotation_var.py",
+
+    "true": "true__op.json",
+
+    "image_num": 100,
+
+    "rotation_angle_standard_deviation": 5,
+    "translation_standard_deviation": 2,
+
+    "images_out": "rotation_var__out__images.pickle" 
+
+}
+
